@@ -7,9 +7,6 @@
     margin-top: 10%;
     
 }
-.Gleamer{
-    margin-top: 2rem;
-}
 h1{
     color: #1E0E62 !important;
     font-size: 35px !important;
@@ -24,7 +21,7 @@ h1{
     padding: 8px 30px;
 }
 p{
-    margin: 4% auto !important;
+    margin: 5% auto !important;
     line-height: 26px;
 }
 .text-muted{
