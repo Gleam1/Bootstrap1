@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+*{
+    font-family: Dm sans, sans-serif;
+}
+.gleam{
+    margin-top: 10%;
+    
+}
+.Gleamer{
+    margin-top: 2rem;
+}
+h1{
+    color: #1E0E62 !important;
+    font-size: 35px !important;
+}
+.btn1{
+    color: #1E0E62;
+    font-weight: 1000px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    border-color: #EBEAED;
+    background-color: transparent;
+    border-radius: 999px;
+    padding: 8px 30px;
+}
+p{
+    margin: 4% auto !important;
+    line-height: 26px;
+}
+.text-muted{
+    color: hsla(241, 47%, 15%, 0.4)!important;
+}
+
+/* @media(max-width:768){
+    body{
+        overflow-x: hidden;
+    }
+    .img{
+        margin-top: 5rem !important;
+    }
+} */
