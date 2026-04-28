@@ -28,7 +28,7 @@ p{
     line-height: 26px;
 }
 .text-muted{
-    color: hsla(241, 47%, 15%, 0.4)!important;
+    color: hsla(241, 47%, 15%, 0.4) !important;
 }
 
 /* @media(max-width:768){
